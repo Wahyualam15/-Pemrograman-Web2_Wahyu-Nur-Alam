@@ -4,8 +4,6 @@
 	<title>Variabel Static</title>
 </head>
 <body>
-	<h1>Wahyu Nur Alam</h1>
-	<h1>Variabel Static</h1>
 	<?php 
 		function test(){
 			static $a=0; 
