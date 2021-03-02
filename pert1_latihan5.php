@@ -10,7 +10,7 @@
 </head>
 <body>
 	<h1>Latihan 5 Pertemuan 1</h1>
-	<h1>Anre Franciscus</h1>
+	<h1>Wahyu Nur Alam</h1>
 	Kapal Asing, Silahkan identifikasikan diri anda! <br>
 	<?php  
 	// berikut ini adalah inisiasi beberapa variabel
